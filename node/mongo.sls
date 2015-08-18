@@ -1,0 +1,3 @@
+mongodb:
+  pkg:
+    - installed
